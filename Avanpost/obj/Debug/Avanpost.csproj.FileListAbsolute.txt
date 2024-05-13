@@ -1,0 +1,7 @@
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\bin\Debug\Avanpost.exe.config
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\bin\Debug\Avanpost.exe
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\bin\Debug\Avanpost.pdb
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\obj\Debug\Avanpost.csproj.AssemblyReference.cache
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\obj\Debug\Avanpost.csproj.CoreCompileInputs.cache
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\obj\Debug\Avanpost.exe
+C:\Users\me\me\Work\CSharp\Avanpost\Avanpost\obj\Debug\Avanpost.pdb
